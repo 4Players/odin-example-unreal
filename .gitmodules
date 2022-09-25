@@ -1,0 +1,3 @@
+[submodule "Plugins/Odin"]
+	path = Plugins/Odin
+	url = ../odin-sdk-unreal.git
