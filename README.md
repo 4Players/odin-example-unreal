@@ -1,8 +1,6 @@
-# 4Players ODIN Unreal Sample Project
+# Unreal Engine sample project for ODIN Voice by 4Players
 
-This is an Unreal Engine sample project using the [ODIN code plugin](https://github.com/4Players/odin-sdk-unreal).
-
-[Online Documentation](https://www.4players.io/developers)
+This is an Unreal Engine sample project using the [ODIN Voice code plugin](https://github.com/4Players/odin-sdk-unreal). Check out our [full online documentation](https://docs.4players.io/voice/) for ODIN Voice, the full-service voice chat technology by 4Players!
 
 ## Prerequisites
 
